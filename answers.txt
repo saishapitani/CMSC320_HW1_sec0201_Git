@@ -14,3 +14,6 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merge preserves your history while rebasing creates a linear history. 
 
 
+Q4: What are you looking forward to this semester?
+
+Answer: Improving my python skills.
